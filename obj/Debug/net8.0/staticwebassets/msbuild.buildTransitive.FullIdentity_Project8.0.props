@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\FullIdentity_Project8.0.props" />
+</Project>

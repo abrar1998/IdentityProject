@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FullIdentity_Project8.0.props" />
+</Project>
