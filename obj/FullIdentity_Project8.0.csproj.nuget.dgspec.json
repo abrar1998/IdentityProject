@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C-Sharp\\.NET7\\FullIdentity_Project8.0\\FullIdentity_Project8.0.csproj": {}
+    "C:\\Users\\darab\\OneDrive\\Desktop\\MiddleWare\\FullIdentity_Project8.0\\FullIdentity_Project8.0.csproj": {}
   },
   "projects": {
-    "D:\\C-Sharp\\.NET7\\FullIdentity_Project8.0\\FullIdentity_Project8.0.csproj": {
+    "C:\\Users\\darab\\OneDrive\\Desktop\\MiddleWare\\FullIdentity_Project8.0\\FullIdentity_Project8.0.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C-Sharp\\.NET7\\FullIdentity_Project8.0\\FullIdentity_Project8.0.csproj",
+        "projectUniqueName": "C:\\Users\\darab\\OneDrive\\Desktop\\MiddleWare\\FullIdentity_Project8.0\\FullIdentity_Project8.0.csproj",
         "projectName": "FullIdentity_Project8.0",
-        "projectPath": "D:\\C-Sharp\\.NET7\\FullIdentity_Project8.0\\FullIdentity_Project8.0.csproj",
+        "projectPath": "C:\\Users\\darab\\OneDrive\\Desktop\\MiddleWare\\FullIdentity_Project8.0\\FullIdentity_Project8.0.csproj",
         "packagesPath": "C:\\Users\\darab\\.nuget\\packages\\",
-        "outputPath": "D:\\C-Sharp\\.NET7\\FullIdentity_Project8.0\\obj\\",
+        "outputPath": "C:\\Users\\darab\\OneDrive\\Desktop\\MiddleWare\\FullIdentity_Project8.0\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\darab\\AppData\\Roaming\\NuGet\\NuGet.Config",

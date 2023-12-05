@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FaUd77gKDCQ1KTBTF9tyC3AWiB5HRXH6p66qpqiEb0040aW/2XKM29RTpokED7WIvOO4za26OmgMUaVdP6qNWA==",
+  "dgSpecHash": "q1HX8kbwZj4EuJ1Iyu8AVsRxItPEUEGvaclpmYW8k2iD7Jwh6fGB7Ja9fMDyYdAk8qhf/COFZaHpTiYRnehz1g==",
   "success": true,
-  "projectFilePath": "D:\\C-Sharp\\.NET7\\FullIdentity_Project8.0\\FullIdentity_Project8.0.csproj",
+  "projectFilePath": "C:\\Users\\darab\\OneDrive\\Desktop\\MiddleWare\\FullIdentity_Project8.0\\FullIdentity_Project8.0.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\darab\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\darab\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
