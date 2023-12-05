@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FullIdentity_Project8.0")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4fcd0cc6afa5e16b0ee8c5d5a13a45be425fa797")]
 [assembly: System.Reflection.AssemblyProductAttribute("FullIdentity_Project8.0")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FullIdentity_Project8.0")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
